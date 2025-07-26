@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "ดาบพิฆาตอสูร",
+    "category": "แอคชัน",
+    "status": "จบแล้ว",
+    "type": "มังงะ",
+    "rating": 9.2,
+    "updatedAt": "2025-07-25T12:00:00Z",
+    "cover": "https://example.com/cover1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "วันพีซ",
+    "category": "ผจญภัย",
+    "status": "ยังไม่จบ",
+    "type": "มังงะ",
+    "rating": 9.5,
+    "updatedAt": "2025-07-26T14:00:00Z",
+    "cover": "https://example.com/cover2.jpg"
+  }
+]
